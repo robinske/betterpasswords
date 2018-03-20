@@ -2,13 +2,15 @@
 
 The following is a list of password recommendations inspired by [NIST](https://pages.nist.gov/800-63-3/sp800-63b.html#-5112-memorized-secret-verifiers)
 
+![XKCD Password Strength](https://imgs.xkcd.com/comics/password_strength.png)
+
 * At least 14 characters
 * Accept all ASCII characters, Unicode characters, and the space character
 * Assigned passwords (e.g., when a user requests a new PIN) must be 6 characters and randomly generated
 * Never allow password "hints" that are accessible to an unauthenticated user
 * Don't prompt for specific info as your password (e.g. "first pet")
 * Don't allow "insecure" passwords where insecure includes:
-    * pwned passwords
+    * [pwned passwords](https://haveibeenpwned.com/Passwords)
     * dictionary words
     * repetitive or sequential characters (e.g. ‘aaaaaa’, ‘1234abcd’)
     * context-specific words, such as the name of the service, the username, the email, etc.
