@@ -1,7 +1,3 @@
-# betterpasswords
-
-Tools and tips for better passwords in web apps.
-
 # Recommendations for Web Developers
 
 The following is a list of password recommendations inspired by [NIST](https://pages.nist.gov/800-63-3/sp800-63b.html#-5112-memorized-secret-verifiers)
@@ -22,7 +18,7 @@ The following is a list of password recommendations inspired by [NIST](https://p
     * make them choose a different password
 * Offer a password-strength meter
 * Rate limit failed authentication attempts on a single account
-* [DON'T ENFORCE OTHER COMPOSITION RULES (e.g., requiring mixtures of different character types or prohibiting consecutively repeated characters)](https://www.wsj.com/articles/the-man-who-wrote-those-password-rules-has-a-new-tip-n3v-r-m1-d-1502124118)
+* [**DON'T ENFORCE OTHER COMPOSITION RULES (e.g., requiring mixtures of different character types or prohibiting consecutively repeated characters)**](https://www.wsj.com/articles/the-man-who-wrote-those-password-rules-has-a-new-tip-n3v-r-m1-d-1502124118)
 * Don't require that passwords be changed arbitrarily or periodically
 * Require that passwords be changed if there is evidence of a breach
 * Let people paste their password (so they can use password managers)
