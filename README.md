@@ -26,7 +26,7 @@ The following is a list of password recommendations inspired by [NIST](https://p
 * Let people paste their password (so they can use password managers)
 * Allow people to see what they typed in (instead of just dots)
 * Use approved encryption when transferring data over the network
-* Salt and hash your passwords before you store them
+* Salt and hash passwords before you store them
     * Don't roll your own crypto. Use a library.
     * Don't roll your own crypto. Use a library.
     * Don't roll your own crypto. Use a library.
