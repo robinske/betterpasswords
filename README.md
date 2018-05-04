@@ -1,4 +1,9 @@
-# Recommendations for Web Developers
+# How to Encourage Stronger Passwords
+
+A guide for web developers who own your app's password requirements.
+
+**Full post available on the Twilio blog:
+https://www.twilio.com/blog/2018/05/encourage-stronger-passwords-stop-using-bad-password-rules.html**
 
 The following is a list of password recommendations inspired by [NIST](https://pages.nist.gov/800-63-3/sp800-63b.html#-5112-memorized-secret-verifiers)
 
